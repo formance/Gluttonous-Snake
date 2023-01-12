@@ -1,3 +1,0 @@
-/home/tsl/Code_HH/Practice_questions/2/build/CMakeFiles/edit_cache.dir
-/home/tsl/Code_HH/Practice_questions/2/build/CMakeFiles/rebuild_cache.dir
-/home/tsl/Code_HH/Practice_questions/2/build/CMakeFiles/cpp_test.dir

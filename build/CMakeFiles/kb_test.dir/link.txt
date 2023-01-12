@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/kb_test.dir/kb_test.cpp.o  -o ../bin/kb_test 
