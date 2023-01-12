@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tsl/Code_HH/Practice_questions/2/demo.cpp
+iostream
+-
+opencv2/highgui.hpp
+-
+opencv2/opencv.hpp
+-
+thread
+-
+list
+-
+chrono
+-
+random
+-
+
